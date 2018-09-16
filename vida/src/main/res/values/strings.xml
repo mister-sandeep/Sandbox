@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vida</string>
+    <string name="title_today">Today</string>
+    <string name="title_journey">Journey</string>
+    <string name="title_profile">Me</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Plan</string>
+    <string name="tab_text_2">Progress</string>
+    <string name="action_calendar">Calendar</string>
+    <string name="action_goals">Goals</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
